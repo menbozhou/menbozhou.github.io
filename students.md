@@ -1,6 +1,6 @@
 ---
-title: "About"
-permalink: "/about/"
+title: "Students"
+# permalink: "/about/"
 layout: page
 ---
 
