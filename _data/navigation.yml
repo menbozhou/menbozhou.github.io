@@ -21,19 +21,22 @@ main:
     url: /teaching/   
 
   - title: "Conferences"
-    url: /conferences/ 
+    url: /talks/ 
+
+  # - title: "Projects"
+  #   url: /talks/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Projects"
+    url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
-    
   - title: "CV"
-    url: /files/pdf/2_Men_CV.pdf
+    url: /cv/
+    
+  # - title: "CV"
+  #   url: /files/pdf/2_Men_CV.pdf
     
   # - title: "Guide"
   #   url: /markdown/
